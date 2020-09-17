@@ -1,0 +1,39 @@
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Emanuel\Desktop\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Emanuel\Desktop\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Emanuel\Desktop\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Emanuel\Desktop\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Emanuel\Desktop\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Emanuel\Desktop\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Emanuel\Desktop\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Emanuel\Desktop\Naturals, Fibonacci & Primes\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Emanuel\Documents\GitHub\FuncDelegate\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
