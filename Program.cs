@@ -6,7 +6,6 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
-            // Func<int> fibo = Fibonacci(), prime = Primes(), nat = Naturals();
             Func<int> fibo = Fibonacci(), nat = Naturals();
 
             Console.WriteLine("--------Fibonacci--------");
@@ -16,11 +15,10 @@ namespace Fibonacci
             }
 
             Console.WriteLine("\n--------Primes--------");
-            // for (int i = 0; i < 10; i++)
-            // {
-            //     Console.WriteLine(prime());
-            // }
-            Primes();
+            int max = 50;
+            bool[] isPrime = Primes(max);
+            for (int i = 2; i < max; i++)
+                if (isPrime[i]) Console.WriteLine(i);
             
             Console.WriteLine("\n--------Naturals--------");
             for (int i = 0; i < 10; i++)
@@ -41,42 +39,20 @@ namespace Fibonacci
             };
         }
 
-        static void Primes()
+        static bool[] Primes(int max)
         {
-            //variable que contiene el numero que se está probando
-        int n = 2;
-        //variable que contiene el total de numeros primos encontrados
-        int total = 1;
+            bool[] is_prime = new bool[max + 1];
+            for (int i = 2; i <= max; i++) is_prime[i] = true;
 
-        //iterar mientras el total de numeros primos no se mayor a 100
-        while(total <= 10){
-
-            //variable que indica si un numero es primo o no
-            bool esPrimo = true;
-
-            //se divide el numero (n) entre todos los numeros anterios a el
-            //si el modulo de la division es 0 significa que el numero no es primo
-            //y se marca la variable esPrimo = false y se termina el ciclo for
-            for (int i = 2; i < n; i++) {
-                if(n % i == 0)
-                {
-                    esPrimo = false;
-                    break;
-                }
-
-            }
-
-            //si despues de ejecutar el ciclo for la variable esPrimo sigue
-            //teniendo un valor true entonces se imprime el numero y se incrementa
-            // el contador de numeros encontrados total++
-            if(esPrimo)
+            for (int i = 2; i <= max; i++)
             {
-             Console.WriteLine(n);
-              total++;
+                if (is_prime[i])
+                {
+                    for (int j = i * 2; j <= max; j += i)
+                        is_prime[j] = false;
+                }
             }
-            //se incrementa para evaluar el siguiente número
-            n++;
-        }
+            return is_prime;
         }
 
         static Func<int> Naturals()
